@@ -100,7 +100,7 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  color: #afafaf;
+  color: #979393;
 }
 
 img {
@@ -120,7 +120,7 @@ body {
 
 ::selection {
   background: #5b03e4;
-  color: #fff;
+  color: #171616;
 }
 
 ::-moz-selection {
@@ -134,7 +134,7 @@ body {
 
 .main-button a {
   font-size: 14px;
-  color: #fff;
+  color: #e7f520;
   background-color: #5b03e4;
   padding: 12px 30px;
   display: inline-block;
@@ -149,14 +149,14 @@ body {
 
 .main-button a:hover {
   background-color: #5b03e4;
-  color: #fff;
+  color: #e7f520;
   opacity: 0.8;
 }
 
 .second-button a {
   font-size: 14px;
-  color: #fff;
-  background-color: #c03afe;
+  color: #5b03e4;
+  background-color: #e7f520;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -169,8 +169,8 @@ body {
 }
 
 .second-button a:hover {
-  background-color: #c03afe;
-  color: #fff;
+  background-color: #eef49d;
+  color: #973be7;
   opacity: 0.8;
 }
 
@@ -189,11 +189,11 @@ body {
   height: 2px;
   margin-bottom: 20px;
   background: rgb(85,0,227);
-  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgba(198,61,255,1) 100%);
+  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgb(233, 236, 39) 100%);
 }
 
 .section-heading h2 {
-  color: #2a2a2a;
+  color: #9c9caf;
   font-size: 30px;
   text-transform: capitalize;
   text-decoration: none;
@@ -207,7 +207,7 @@ body {
 }
 
 .section-heading h2 span {
-  color: #c03afe;
+  color: #e7f520;
 }
 
 /* 
@@ -319,7 +319,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #fff;
+  background-color: #181616;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -335,7 +335,7 @@ Header Style
 .header-area {
   position: absolute;
   background: rgb(85,0,227);
-  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgba(198,61,255,1) 100%);
+  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgb(233, 236, 39) 100%);
   height: 110px;
   top: 57px;
   left: 0;
@@ -405,7 +405,7 @@ Header Style
   font-weight: 400;
   font-size: 14px;
   text-transform: uppercase;
-  color: #fff;
+  color: #f3f0f0;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -o-transition: all 0.4s ease 0s;
@@ -440,7 +440,7 @@ Header Style
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fff;
+  color: #858181;
   opacity: 0.8;
 }
 
@@ -467,7 +467,7 @@ Header Style
   position: absolute;
   width: 160px;
   border-radius: 0px 0px 5px 5px;
-  background-color: #eee;
+  background-color: #f7f3f3;
   box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
   overflow: hidden;
   top: 110px;
@@ -492,7 +492,7 @@ Header Style
   opacity: 1;
   display: block;
   background: #eee;
-  color: #2a2a2a!important;
+  color: #e7f520!important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -624,15 +624,15 @@ Header Style
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #fff;
+  background-color: #343131;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #fff;
+  background-color: #343131;
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fff;
+  color: #343131;
 }
 
 @media (max-width: 1200px) {
@@ -675,7 +675,7 @@ Header Style
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #313134;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -714,7 +714,7 @@ Header Style
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #fff;
+    background: #313134;
     border-bottom: 1px solid #eee;
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -724,11 +724,11 @@ Header Style
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #f7f7f7 !important;
-    color: #191a20 !important;
+    background: #313432 !important;
+    color: #e7f520 !important;
   }
   .header-area .main-nav .nav li a:hover {
-    background: #eee !important;
+    background: #939297 !important;
     color: #5b03e4!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
@@ -754,7 +754,7 @@ Header Style
     height: auto;
   }
   .header-area .main-nav .nav li.has-sub:after {
-    color: #3B566E;
+    color: #e7f520;
     right: 30px;
     font-size: 14px;
     top: 15px;
@@ -813,7 +813,7 @@ Header Style
 }
 
 .pre-header ul li a:hover {
-  color: #c03afe;
+  color: #e7f520;
 }
 
 /* 
@@ -858,12 +858,12 @@ Banner Style
   margin: 30px 0px 20px 0px;
   width: 210px;
   height: 2px;
-  background-color: #decdfa;
+  background-color: #343131;
 }
 
 .main-banner h4 {
   font-size: 52px;
-  color: #2a2a2a;
+  color: #b3a5a5;
   font-weight: 700;
   line-height: 70px;
   margin-bottom: 20px;
@@ -875,7 +875,7 @@ Banner Style
 }
 
 .main-banner h4 span {
-  color: #c03afe;
+  color: #e7f520;
 }
 
 .main-banner p {
@@ -981,7 +981,7 @@ Projects Style
 }
 
 .projects .item .down-content {
-  background-color: #fff;
+  background-color: #5b03e4;
   border: 1px solid #f3d7ff;
   border-radius: 0px 0px 23px 23px;
   padding: 30px;
@@ -990,7 +990,7 @@ Projects Style
 
 .projects .item .down-content h4 {
   font-size: 20px;
-  color: #2a2a2a;
+  color: #e7f520;
   line-height: 30px;
   width: 75%;
 }
@@ -1215,7 +1215,7 @@ Contact Style
   width: 100%;
   height: 120px;
   border-radius: 23px;
-  background-color: #f9ebff;
+  background-color: #f5ebff;
   border: none;
   outline: none;
   padding: 15px;
@@ -1246,7 +1246,7 @@ Contact Style
 .contact-us-content .more-info {
   text-align: center;
   background: rgb(85,0,227);
-  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgba(198,61,255,1) 100%);
+  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgba(233,236,39,1) 100%);
   border-radius: 0px 0px 23px 23px;
   padding: 45px 30px 15px 30px;
 }
@@ -1339,7 +1339,7 @@ Page Heading Style
 }
 
 .page-heading h4 span {
-  color: #c03afe;
+  color: #e7f520;
 }
 
 .page-heading p {
