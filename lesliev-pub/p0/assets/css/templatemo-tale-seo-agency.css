@@ -405,7 +405,7 @@ Header Style
   font-weight: 400;
   font-size: 14px;
   text-transform: uppercase;
-  color: #f3f0f0;
+  color: #5903e476;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -o-transition: all 0.4s ease 0s;
@@ -434,7 +434,7 @@ Header Style
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fff;
+  color: #5b03e4;
   opacity: 0.8;
 }
 
@@ -453,7 +453,7 @@ Header Style
   font-family: FontAwesome;
   content: "\f107";
   font-size: 12px;
-  color: #fff;
+  color: #00000048;
   position: absolute;
   right: 30px;
   top: 45px;
@@ -491,7 +491,7 @@ Header Style
 .header-area .main-nav .nav li.has-sub ul.sub-menu li a {
   opacity: 1;
   display: block;
-  background: #eee;
+  background: #0000009a;
   color: #e7f520!important;
   padding-left: 20px;
   height: 40px;
