@@ -100,7 +100,7 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  color: #979393;
+  color: #605d5d;
 }
 
 img {
@@ -765,7 +765,7 @@ Header Style
 }
 
 .pre-header {
-  background-color: #fff;
+  background-color: #423e3e;
   padding: 15px 0px;
 }
 
@@ -795,7 +795,7 @@ Header Style
 }
 
 .pre-header ul li a {
-  color: #a586bc;
+  color: #845aed;
   transition: all .4s;
 }
 
@@ -863,7 +863,7 @@ Banner Style
 
 .main-banner h4 {
   font-size: 52px;
-  color: #b3a5a5;
+  color: #4a4850;
   font-weight: 700;
   line-height: 70px;
   margin-bottom: 20px;
@@ -1630,7 +1630,7 @@ CTA Style
 
 .cta h4 {
   font-size: 30px;
-  color: #fff;
+  color: #2a2a3e;
   line-height: 44px;
 }
 
@@ -1781,7 +1781,7 @@ Most Asked Style
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.10);
   padding: 60px;
   margin-left: 45px;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 #free-quote .section-heading {
@@ -1844,7 +1844,7 @@ body {
     padding-right: 0px !important;
   }
   .header-area .main-nav .nav li {
-    background: #f7f7f7;
+    background: #f7f3f3;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     display: none;
