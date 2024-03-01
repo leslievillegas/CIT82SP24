@@ -1,19 +1,9 @@
 - I think instead of white, I'll make the theme dark
-- Change everything agency related to game related
 - Kind of want to replace the background pictures with something but don't have images in mind atm
-- The work and projects pictures will for sure be replaced with game images
-- I'll probably get rid of the bar graph because I have no use for it
-- I'm going to get rid of the location on the contact us form and edit the form to not include name and last name
-- The social media icons will probably only have two instead of the four it has listed
-- I want to try and figure out how to add a logo to the tab on the browser (not sure if i'll be able to add it in time for this project but will figure out how to add it after)
-- I want a different logo than the one that's on the website so I'll probably replace that picture
-- Remove the information at the top that has phone number, email, and address
-- Remove the map (i have no need for it)
-- I want to move some subpages under a different page
-- A couple of the pages in the menu could be turned into subpages so I'll probably try and move that around
-- One of the pages and sub pages will have a different colour scheme altogether so the theme will change for that
-- English isn't my first language so I wanted to add a css translate feature but I think the web browser could already do that 
-- I want to make the services and projects pages actual pages and not just a section to scroll down to
-- If possible to remove, I want to remove the copyright and license at the bottom
+- Edit social buttons so they take visitors to the social media pages
+- Edit favicon so it's not small and pixelated
+- Add more information on the new pages
+- One of the pages and sub pages will have a different colour scheme altogether so the theme will change for that (probably after the aasingment is done)
+- English isn't my first language so I wanted to add a css translate feature but I think the web browser could already do that (after project is done)
 - The about us page will be changed to showcase me and my friends information and favorite items from the game we play
 - One of the pages(not sure which one yet) will have an add on that lets you generate different weapon kits for the game 
